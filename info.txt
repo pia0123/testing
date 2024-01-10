@@ -1,2 +1,3 @@
 Hello Git
 ICh habe etwas weiterentwickelt! 
+Wir müssen noch etwas weiterentwickeln! - 10.1.2024
